@@ -1,8 +1,8 @@
 {
   "credit": "MR. NoOB",
-  "show_dialog": false,
+  "show_dialog": true,
   "title": "🚀 Update Available",
-  "subtitle": "✨ New Version Release ✨",
+  "subtitle": "✨ New Version Release  5 pm✨",
   "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
   "btn_update": "Update Now",
   "btn_exit": "Exit",
